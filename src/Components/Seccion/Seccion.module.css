@@ -1,0 +1,10 @@
+.seccion {
+  margin: 20px;
+}
+
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}

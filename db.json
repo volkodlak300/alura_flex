@@ -1,0 +1,100 @@
+{ 
+    "data": [
+    {
+        "id": 1,
+        "titulo":"7 Consejos de Diseño para Programadores Front-End",
+        "categoria":"FRONT END",
+        "link": "https://www.youtube.com/watch?v=n189TdfbQIA"
+    },
+    {
+        "id": 2,
+        "titulo":"7 cosas que debes saber para ser programador frontend este 2023",
+        "categoria":"FRONT END",
+        "link": "https://www.youtube.com/watch?v=q0UgClC8md4"
+    },
+    {
+        "id": 3,
+        "titulo":"La Verdad de Ser DESARROLLADOR FRONTEND en 2024",
+        "categoria":"FRONT END",
+        "link": "https://www.youtube.com/watch?v=S4Mh-z2FOEg"
+    },
+    {
+        "id": 4,
+        "titulo":"Paso a paso para ser programador frontend en 2023 (Guía completa)",
+        "categoria":"FRONT END",
+        "link": "https://www.youtube.com/watch?v=6D25A8_50Jk"
+    },
+    {
+        "id": 5,
+        "titulo":"El frontend es demasiado complicado",
+        "categoria":"FRONT END",
+        "link": "https://www.youtube.com/watch?v=jQh0QaAS4N0"
+    },
+    {
+        "id": 6,
+        "titulo":"¿Cuál es el mejor lenguaje de programación de Backend para ti?",
+        "categoria":"BACK END",
+        "link": "https://www.youtube.com/watch?v=eymgiK3y2mU"
+    },
+    {
+        "id": 7,
+        "titulo":"⭐ ¿Qué hace un DESARROLLADOR BACKEND en 2024?",
+        "categoria":"BACK END",
+        "link": "https://www.youtube.com/watch?v=137Q1tSkZ-I"
+    },
+    {
+        "id": 8,
+        "titulo":"Los Frameworks Backend de Nodejs más recomendados",
+        "categoria":"BACK END",
+        "link": "https://www.youtube.com/watch?v=ItAru_T2dKs"
+    },
+    {
+        "id": 9,
+        "titulo":"Lo que Debes Saber como Programador Backend en 2024",
+        "categoria":"BACK END",
+        "link": "https://www.youtube.com/watch?v=qmIqP4GKUlI"
+    },
+    {
+        "id": 10,
+        "titulo":"¿Qué es un Programador BACKEND JUNIOR?",
+        "categoria":"BACK END",
+        "link": "https://www.youtube.com/watch?v=Fms6bXpqF2k"
+    },
+    {
+        "id": 11,
+        "titulo":"7 Soft Skills más deseadas por las empresas",
+        "categoria":"INNOVACION Y GESTION",
+        "link": "https://www.youtube.com/watch?v=YhR7Zp8NUzE&t=312s"
+    },
+    {
+        "id": 12,
+        "titulo":"🚀¿Qué son las METODOLOGíAS ÁGILES?",
+        "categoria":"INNOVACION Y GESTION",
+        "link": "https://www.youtube.com/watch?v=OjugZg1bB2k"
+    },
+    {
+        "id": 13,
+        "titulo":"¿Cómo ser Autodidacta? - Aprender a Aprender",
+        "categoria":"INNOVACION Y GESTION",
+        "link": "https://www.youtube.com/watch?v=ybkXLkEpq_s"
+    },
+    {
+        "id": 14,
+        "titulo":"Método IKIGAI explicado. CÓMO descubrir tu IKIGAI PASO a PASO",
+        "categoria":"INNOVACION Y GESTION",
+        "link": "https://www.youtube.com/watch?v=KRwN5X5FxA0"
+    },
+    {
+        "id": 15,
+        "titulo":"Método IKIGAI explicado. CÓMO descubrir tu IKIGAI PASO a PASO",
+        "categoria":"INNOVACION Y GESTION",
+        "link": "https://www.youtube.com/watch?v=KRwN5X5FxA0"
+    },
+    {
+        "id": 16,
+        "titulo":"Reseña de Plataforma Alura en Latinoamérica | Cursos de Programación y Emprendimiento",
+        "categoria":"INNOVACION Y GESTION",
+        "link": "https://www.youtube.com/watch?v=aNU59udWerk"
+    }
+    ]
+}

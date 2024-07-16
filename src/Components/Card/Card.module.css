@@ -1,0 +1,25 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .especialidad{
+    font-family: "Roboto", sans-serif;
+    font-size: 46px;
+    font-weight: lighter;
+    color: aliceblue;
+    line-height: 30px;
+    margin: 20px ;
+  }
+  
+  h4 {
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    color: aliceblue;
+    line-height: 30px;
+    width: 663px;
+    margin: 20px ;
+  }
+  
